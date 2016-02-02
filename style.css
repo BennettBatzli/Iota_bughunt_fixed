@@ -1,0 +1,18 @@
+body {
+	background-color: #ffe5b3;
+}
+
+li {
+	list-style-type: none;
+	font-family: Garamond, serif;
+	font-size:24px;
+	line-height: 1.5;
+	color: #1766b5;
+}
+
+h1 {
+	list-style-type: none;
+	font-family: Garamond, serif;
+	line-height: 1.5;
+	color: black;
+}
