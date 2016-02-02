@@ -1,5 +1,9 @@
 // ! ! !
-// Three Bugs
+// The 3 Bugs found:
+// 1. Adding [i] to the variables in the calculateSTI function
+// 2. Removing the subtraction by 1 in the switch statement
+// 3. rounding the values to make cleaner numbers
+//
 
 var arrayAtticus = ["Atticus", "2405", "47000", 3];
 var arrayJem = ["Jem", "62347", "63500", 4];
